@@ -6007,6 +6007,7 @@ body.modal-open,
   position: relative;
   width: 100%;
   overflow: hidden;
+  background: gray;
 }
 
 .carousel-inner > .item {
