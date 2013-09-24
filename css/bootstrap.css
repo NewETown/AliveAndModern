@@ -308,7 +308,7 @@ body {
   font-size: 14px;
   line-height: 1.428571429;
   color: #333333;
-  background-color: #a2c29f;
+  background-color: #d7e5d6; /*#a2c29f;*/
 }
 
 input,
@@ -750,10 +750,11 @@ pre code {
 }
 
 .container {
-  padding-right: 15px;
-  padding-left: 15px;
+  padding-right: 10px;
+  padding-left: 10px;
   margin-right: auto;
   margin-left: auto;
+  background: #f7f7f7;
 }
 
 .container:before,
