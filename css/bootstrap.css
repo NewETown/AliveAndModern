@@ -361,7 +361,7 @@ img {
 .img-thumbnail {
   display: inline-block;
   height: auto;
-  max-width: 100%;
+  max-width: 20%;
   padding: 4px;
   line-height: 1.428571429;
   background-color: #ffffff;
@@ -6008,7 +6008,6 @@ body.modal-open,
   position: relative;
   width: 100%;
   overflow: hidden;
-  background: gray;
 }
 
 .carousel-inner > .item {

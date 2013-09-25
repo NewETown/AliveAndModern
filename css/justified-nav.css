@@ -38,12 +38,12 @@ body {
   text-align: center;
 }
 .nav-justified > li > a:hover {
-        background-color: #ddd;
+        background-color: #ddd !important;
       }
 .nav-justified > .active > a,
 .nav-justified > .active > a:hover,
 .nav-justified > .active > a:focus {
-  background-color: #ddd;
+  background-color: #ddd !important;
   background-image: none;
 }
 .nav-justified > li:first-child > a {
