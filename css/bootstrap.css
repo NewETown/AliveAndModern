@@ -308,7 +308,7 @@ body {
   font-size: 14px;
   line-height: 1.428571429;
   color: #333333;
-  background-color: #d7e5d6; /*#a2c29f;*/
+  background-color: #fcfcfc; /*#d7e5d6;*/
 }
 
 input,
@@ -754,7 +754,7 @@ pre code {
   padding-left: 10px;
   margin-right: auto;
   margin-left: auto;
-  background: #f7f7f7;
+  background: #fcfcfc; /*#f7f7f7;*/
 }
 
 .container:before,
@@ -3829,7 +3829,13 @@ textarea.input-group-sm > .input-group-btn > .btn {
 .nav > li > a {
   position: relative;
   display: block;
-  padding: 10px 15px;
+  padding-left: 20px;
+  background: #fcfcfc;
+}
+
+.nav-container {
+  background: #cbddc9;
+  padding: 20px 20px 20px 20px;
 }
 
 .nav > li > a:hover,
